@@ -399,10 +399,16 @@
     },
     "settings": {
       "name": "time:sky",
-      "bedrock_roof_position": -10,
-      "bedrock_floor_position": -10,
+      "bedrock_roof_position": -2147483648,
+      "bedrock_floor_position": -2147483648,
       "sea_level": 0,
       "disable_mob_generation": false,
+      "noodle_caves_enabled": true,
+      "noise_caves_enabled": true,
+      "aquifers_enabled": true,
+      "deepslate_enabled": true,
+      "ore_veins_enabled": true,
+      "min_surface_level": 0,
       "default_block": {
         "Name": "minecraft:stone"
       },
@@ -410,6 +416,7 @@
         "Name": "minecraft:stone"
       },
       "noise": {
+        "min_y": 0,
         "density_factor": 0,
         "density_offset": 0,
         "simplex_surface_noise": true,

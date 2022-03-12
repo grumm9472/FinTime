@@ -2,10 +2,10 @@
   "replace": false,
   "values": [
     "time:minecraftyears_100_water",
-    "time:minecraftyears_100_water_flowing",
+    "time:flowing_minecraftyears_100_water",
     "time:ice_water",
-    "time:ice_water_flowing",
+    "time:flowing_ice_water",
     "time:pure_water",
-    "time:pure_water_flowing"
+    "time:flowing_pure_water"
   ]
 }
